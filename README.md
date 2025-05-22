@@ -36,6 +36,8 @@ El dashboard de Power BI, titulado "POKER DATA ANALYSIS", proporciona insights c
 *   **ITM por Registro Tardío:** Un gráfico de burbujas explora la relación entre el ITM% y el tiempo de registro tardío.
 *   **Filtros:** Incluye filtros interactivos, como un selector de fechas, para permitir a los usuarios explorar datos para períodos específicos.
 
+![Poker Dashboard](poker_dashboard.png)
+
 ## Archivos
 
 *   `poker_data.csv`: El archivo de datos crudos original.
@@ -50,4 +52,4 @@ El dashboard de Power BI, titulado "POKER DATA ANALYSIS", proporciona insights c
 3.  Ejecute el notebook `poker_analysis.ipynb` para realizar la limpieza de datos y generar `poker_data_limpio.csv`.
 4.  Abra el archivo de Power BI asociado (no incluido en esta descripción pero referenciado por la imagen del dashboard) y conéctelo al archivo `poker_data_limpio.csv` para ver las visualizaciones.
 
-![Poker Dashboard](poker_dashboard.png)
+
